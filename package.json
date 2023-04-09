@@ -1,7 +1,7 @@
 {
-  "name": "ajs",
+  "name": "clear-function",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://ci.appveyor.com/api/projects/status/github/ludmila2107/clear-function\r )](https://ci.appveyor.com/api/projects/status/github/ludmila2107/clear-function)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -37,5 +37,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludmila2107/clearFunction1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ludmila2107/clearFunction1/issues"
+  },
+  "homepage": "https://github.com/ludmila2107/clearFunction1#readme"
 }
